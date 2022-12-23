@@ -3,13 +3,7 @@
 ### Hi there 👋, My Name Rezwanul Monir
 #### Web Developer (WordPress)
 
-As a web developer specializing in Wordpress, I take pride in my ability to create websites that are both visually appealing and highly functional. I have experience in front-end development, which allows me to create user-friendly websites that are tailored to meet the needs of my clients. My work is backed by a deep understanding of HTML, CSS, Javascript and WordPress, which I use to create websites that are optimized for search engines.
-
-I am passionate about making the web a better place, and my commitment to quality is reflected in my work. I strive to create websites that are not only attractive and easy to use, but also secure and bug-free. I have a keen eye for detail and I pay close attention to all the small details that can make or break a website. I strive to stay ahead of the curve when it comes to web development, and I am always on the lookout for new technologies and techniques that will help me create better websites for my clients.
-
-I am an experienced problem solver, and I enjoy tackling complex problems and finding creative solutions. I am also an excellent communicator.
-
-If you’re looking for someone to create a beautiful and functional website using Wordpress, I am your man.
+I have a broad skill set that enables me to construct and modify websites for a variety of clients as a WordPress developer with experience in WooCommerce and frontend development. I can create effective and beautiful online businesses & e-commerce platforms because of my extensive understanding of WordPress and WooCommerce. My proficiency in frontend development enables me to produce user-friendly, responsive designs that look fantastic across all devices. I am proficient in HTML, CSS, and JavaScript and can use these abilities to design unique features and functionalities for my clients. I have the ability to identify problems, debug them, and collaborate with clients to determine their needs and put solutions in place. I have excellent communication skills and can do work effectively as part of a team or individually. Overall, i can be a valuable asset to any organization or project that requires WordPress, WooCommerce, and frontend development expertise.
 
 Skills: WordPress / JS / Bootstrap / CSS / HTML
 
