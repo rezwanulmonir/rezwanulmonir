@@ -11,7 +11,7 @@ I am an experienced problem solver, and I enjoy tackling complex problems and fi
 
 If you’re looking for someone to create a beautiful and functional website using Wordpress, I am your man.
 
-Skills: WordPress / JS / CSS / HTML
+Skills: WordPress / JS / Bootstrap / CSS / HTML
 
 - 🔭 I’m currently working on Self Web Development Skills 
 - 🌱 I’m currently learning JavaScript 
