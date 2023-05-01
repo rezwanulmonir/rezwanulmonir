@@ -3,9 +3,13 @@
 ### Hi there 👋, My Name Rezwanul Monir
 #### Web Developer (WordPress)
 
-I have a broad skill set that enables me to construct and modify websites for a variety of clients as a WordPress developer with experience in WooCommerce and frontend development. I can create effective and beautiful online businesses & e-commerce platforms because of my extensive understanding of WordPress and WooCommerce. My proficiency in frontend development enables me to produce user-friendly, responsive designs that look fantastic across all devices. I am proficient in HTML, CSS, and JavaScript and can use these abilities to design unique features and functionalities for my clients. I have the ability to identify problems, debug them, and collaborate with clients to determine their needs and put solutions in place. I have excellent communication skills and can do work effectively as part of a team or individually. Overall, i can be a valuable asset to any organization or project that requires WordPress, WooCommerce, and frontend development expertise.
+Hi, I'm Rezwanul Monir. I have a broad skill set that enables me to construct and modify websites for a variety of clients as a WordPress developer with experience in WordPress Theme Customization, WooCommerce and frontend development. I can create effective and beautiful websites and e-commerce websites because of my extensive understanding of WordPress and WooCommerce.
 
-Skills: SEO / Git / WooCommerce / WordPress / JS / Bootstrap / CSS / HTML
+I am proficient in HTML, CSS, and JavaScript and can use these abilities to design unique features and functionalities for my clients. I have the ability to identify problems, debug them, and collaborate with clients to determine their needs and put solutions in place.
+
+I am quite good at communicating with clients and working effectively as part of a team or individually. Overall, I can be a valuable asset to any organization or project that requires WordPress Theme Customization and WooCommerce.
+
+Skills: GitHub / Git / WooCommerce / WordPress / JS / Bootstrap / CSS / HTML
 
 - 🔭 I’m currently working on Self Web Development Skills 
 - 🌱 I’m currently learning JavaScript 
