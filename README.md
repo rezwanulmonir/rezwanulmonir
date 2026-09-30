@@ -1,20 +1,78 @@
-![Web Developer (WordPress)](https://profile-assets.showwcase.com/65252/1671833853544-1671833852863-Showwcase%252520Profile%252520Cover%252520.png)
+## GitHub Profile Bio / README About Me
 
-### Hi there 👋, My Name Rezwanul Monir
-#### Web Developer (WordPress)
+# Hi, I'm Rezwanul Monir 👋
 
-Hi, I'm Rezwanul Monir. I have a broad skill set that enables me to construct and modify websites for a variety of clients as a WordPress developer with experience in WordPress Theme Customization, WooCommerce and frontend development. I can create effective and beautiful websites and e-commerce websites because of my extensive understanding of WordPress and WooCommerce.
+🔐 Ethical Hacker | 🐞 Bug Hunter | 🎯 CTF Player | 🛡️ Cybersecurity Enthusiast
 
-I am proficient in HTML, CSS, and JavaScript and can use these abilities to design unique features and functionalities for my clients. I have the ability to identify problems, debug them, and collaborate with clients to determine their needs and put solutions in place.
+I am focused on Cybersecurity, Ethical Hacking, Web Application Security, Bug Hunting, Penetration Testing, and SOC Analysis.
 
-I am quite good at communicating with clients and working effectively as part of a team or individually. Overall, I can be a valuable asset to any organization or project that requires WordPress Theme Customization and WooCommerce.
+For the past 1.5+ years, I have been learning and practicing cybersecurity through hands-on labs, vulnerability research, CTF challenges, and bug bounty programs.
 
-Skills: GitHub / Git / WooCommerce / WordPress / JS / Bootstrap / CSS / HTML
+### 🔭 Currently Working On
+- Ethical Hacking
+- Web Application Security
+- Bug Hunting
+- Penetration Testing
+- CTF Challenges
 
-- 🔭 I’m currently working on Self Web Development Skills 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about WordPress Development 
+### 🌱 Currently Learning
+- SOC Analysis
+- Advanced Web Penetration Testing
+- Vulnerability Research
+- Network Security
+- Incident Analysis
+
+### 🎯 Practice Platforms
+- TryHackMe
+- Hack The Box
+- HackerOne
+- Bugcrowd
+
+### 🛠️ Skills & Technologies
+Cybersecurity • Ethical Hacking • Web Security • Bug Hunting • Penetration Testing • OWASP Top 10 • Burp Suite • Nmap • Linux • Networking • Git • GitHub • JavaScript • HTML • CSS • WordPress • WooCommerce
+
+### 💻 Development Background
+Before moving into cybersecurity, I worked with WordPress, WooCommerce, frontend development, HTML, CSS, and JavaScript. This development background helps me understand web applications from both development and security perspectives.
+
+👯 Looking to collaborate on cybersecurity, CTF, open-source security, and research projects.
+
+💬 Ask me about Ethical Hacking, Bug Hunting, Web Security & Cybersecurity.
+
+---
+
+## Upwork Profile Overview
+
+Cybersecurity Specialist | Ethical Hacker | Web Application Security | Penetration Testing
+
+I am a Cybersecurity professional with 1.5+ years of hands-on experience in Ethical Hacking, Web Application Security, Vulnerability Assessment, Bug Hunting, CTF challenges, and Penetration Testing.
+
+I focus on identifying security weaknesses in web applications and helping understand the potential risks associated with those vulnerabilities.
+
+My cybersecurity practice includes hands-on work through platforms such as TryHackMe, Hack The Box, HackerOne, and Bugcrowd, where I continuously develop my skills in reconnaissance, vulnerability identification, web application testing, exploitation techniques, Linux, networking, and security analysis.
+
+I also have previous professional experience with WordPress, WooCommerce, HTML, CSS, JavaScript, and frontend development. This combination of development and cybersecurity knowledge enables me to analyze applications from both perspectives—understanding how they are built as well as where security weaknesses may exist.
+
+My areas of expertise and growing specialization include:
+
+• Web Application Security Testing
+• Ethical Hacking
+• Vulnerability Assessment
+• Penetration Testing
+• Bug Hunting
+• OWASP Top 10 Testing
+• Website Security Assessment
+• WordPress Security
+• Reconnaissance
+• Burp Suite
+• Nmap
+• Linux
+• Networking
+• Basic SOC Analysis
+• Security Research
+
+I believe in responsible and authorized security testing, clear communication, detailed reporting, and providing practical remediation recommendations for identified vulnerabilities.
+
+If you need help assessing the security of an authorized website or web application, identifying vulnerabilities, or understanding how security weaknesses can be remediated, I would be happy to collaborate.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rezwanulmonir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rezwan08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rezwan08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rezwanmonir08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RezwanulMonir)  
